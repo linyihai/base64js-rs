@@ -1,6 +1,6 @@
 {
   "name": "base64js-rs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Reimplemented `base64-rs` by using `rust-base64` as backend",
   "main": "index.js",
   "repository": {
